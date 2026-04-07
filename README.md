@@ -48,4 +48,4 @@ gpa-ai-dashboard/
 
 ##  Author
 
-Your Name
+Albert Uchechukwu Vincent
