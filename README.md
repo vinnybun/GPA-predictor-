@@ -2,6 +2,7 @@
 
 A data-driven GPA analytics and prediction system built with Python and Streamlit.
 
+[Click Here to Access Dashboard](https://protean-nonverminously-journee.ngrok-free.dev/)
 ---
 
 ##  Features
@@ -37,13 +38,15 @@ streamlit run app.py
 
 gpa-ai-dashboard/
 │
-├── app.py
-├── requirements.txt
-├── README.md
+├── [app.py](https://github.com/vinnybun/GPA-predictor-/blob/main/app.py)
+├── [requirements.txt](https://github.com/vinnybun/GPA-predictor-/blob/main/requirements.txt)
+├── [README.md](https://github.com/vinnybun/GPA-predictor-/blob/main/README.md)
 │
 ├── data/
 │   └── sample_results.csv
-
+|── notebook/
+      └── colab.ipnb
+      
 ---
 
 ##  Author
